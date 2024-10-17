@@ -1,0 +1,38 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^en/index.php$ en/ [L]
+RewriteRule ^sitemap.xml$ sitemap.php [L]
+RewriteRule ^([a-zA-Z]{2})/sitemap.xml$ sitemap.php?lang=$1 [L]
+RewriteRule ^,$ index.php?%{QUERY_STRING} [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^,(.*)$ modules.php?mod=$1&%{QUERY_STRING} [L]
+
+RewriteRule ^([a-zA-Z]{2})/?$ index.php?lang=$1%{QUERY_STRING} [L]
+RewriteRule ^([a-zA-Z]{2})/,$ index.php?lang=$1%{QUERY_STRING} [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([a-zA-Z]{2})/,(.*)$ modules.php?lang=$1&mod=$2&%{QUERY_STRING} [L]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule  ^([a-zA-Z]{2})(/(.*))?$ modules.php?lang=$1&query=$3&%{QUERY_STRING} [L]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule  ^(.*)$ modules.php?query=$1&%{QUERY_STRING} [L]
+
+
+
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
