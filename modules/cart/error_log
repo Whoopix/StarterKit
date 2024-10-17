@@ -1,0 +1,120 @@
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 3
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 5
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 7
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 9
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 32
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[17-Jan-2024 00:05:42 UTC] PHP Warning:  Use of undefined constant key - assumed 'key' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 79
+[17-Jan-2024 00:05:42 UTC] PHP Notice:  Undefined variable: LCS_c in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 85
+[17-Jan-2024 00:05:42 UTC] PHP Notice:  Undefined index: product_id in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/remove.php on line 9
+[17-Jan-2024 00:05:42 UTC] PHP Notice:  Undefined index: cart in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/remove.php on line 9
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 3
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 5
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 7
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 9
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 32
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[28-Jan-2024 21:58:27 UTC] PHP Warning:  Use of undefined constant key - assumed 'key' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 79
+[28-Jan-2024 21:58:27 UTC] PHP Notice:  Undefined variable: LCS_c in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 85
+[28-Jan-2024 21:58:27 UTC] PHP Notice:  Undefined index: product_id in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/remove.php on line 9
+[28-Jan-2024 21:58:27 UTC] PHP Notice:  Undefined index: cart in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/remove.php on line 9
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 3
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 5
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 7
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 9
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 32
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[12-Feb-2024 21:08:54 UTC] PHP Warning:  Use of undefined constant key - assumed 'key' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 79
+[12-Feb-2024 21:08:54 UTC] PHP Notice:  Undefined variable: LCS_c in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 85
+[12-Feb-2024 21:08:54 UTC] PHP Notice:  Undefined index: product_id in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/remove.php on line 9
+[12-Feb-2024 21:08:54 UTC] PHP Notice:  Undefined index: cart in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/remove.php on line 9
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 3
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 5
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 7
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 9
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 32
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[29-Feb-2024 19:39:15 UTC] PHP Warning:  Use of undefined constant key - assumed 'key' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 79
+[29-Feb-2024 19:39:15 UTC] PHP Notice:  Undefined variable: LCS_c in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 85
+[29-Feb-2024 19:39:15 UTC] PHP Notice:  Undefined index: cart in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/update.php on line 5
+[29-Feb-2024 19:39:15 UTC] PHP Notice:  Undefined index: coupon_code in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/update.php on line 20
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 3
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 5
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 7
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 9
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 32
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[13-Mar-2024 07:13:31 UTC] PHP Warning:  Use of undefined constant key - assumed 'key' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 79
+[13-Mar-2024 07:13:31 UTC] PHP Notice:  Undefined variable: LCS_c in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 85
+[13-Mar-2024 07:13:31 UTC] PHP Notice:  Undefined index: cart in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/update.php on line 5
+[13-Mar-2024 07:13:31 UTC] PHP Notice:  Undefined index: coupon_code in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/update.php on line 20
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 3
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 5
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 7
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/db.php on line 9
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 30
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 31
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 32
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 73
+[12-Jul-2024 12:58:20 UTC] PHP Warning:  Use of undefined constant key - assumed 'key' (this will throw an Error in a future version of PHP) in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 79
+[12-Jul-2024 12:58:20 UTC] PHP Notice:  Undefined variable: LCS_c in /home/nla5xjeoktlv/beta.whoopix.co/config.php on line 85
+[12-Jul-2024 12:58:20 UTC] PHP Notice:  Undefined index: cart in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/update.php on line 5
+[12-Jul-2024 12:58:20 UTC] PHP Notice:  Undefined index: coupon_code in /home/nla5xjeoktlv/beta.whoopix.co/modules/cart/update.php on line 20
